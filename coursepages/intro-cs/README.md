@@ -1,4 +1,4 @@
-# Introduction to Computer Science and Programming using Python
+# ➡️Introduction to Computer Science and Programming using Python
 
 This course will introduce you to the world of computer science and programming, giving you a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
 
